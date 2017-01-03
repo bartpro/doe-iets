@@ -1,2 +1,2 @@
 # doe-iets
-doe maar eens iets
+Doe maar eens iets.
